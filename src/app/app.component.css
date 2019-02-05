@@ -1,6 +1,14 @@
 mat-toolbar {
-  background-color: #66CCCC	;
   color: white;
   font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  padding-left: 15px;
+  height: 70px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.brand {
+  font-size: 48px;
 }
