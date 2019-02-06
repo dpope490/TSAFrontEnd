@@ -1,6 +1,5 @@
 mat-toolbar {
   color: white;
-  font-family: 'Roboto', sans-serif;
   padding-left: 15px;
   height: 70px;
 }
@@ -11,4 +10,12 @@ mat-toolbar {
 
 .brand {
   font-size: 48px;
+}
+
+.toolbar {
+  padding-top: 15px;
+}
+
+a {
+  color: white;
 }
