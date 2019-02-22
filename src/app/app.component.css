@@ -18,4 +18,15 @@ mat-toolbar {
 
 a {
   color: white;
+  text-decoration: none;
+}
+
+mat-icon {
+  font-size: 32px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+* {
+  background-color: transparent;
 }
